@@ -1,5 +1,5 @@
 {
-  "name": "vidence",
+  "name": "evidence",
   "version": "0.0.1",
   "scripts": {
     "build": "EVIDENCE_BUILD_DIR=./build/evidence evidence build",
