@@ -1,5 +1,5 @@
 deployment:
-  basePath: /evidence
+  basePath: /dev
 
 appearance:
   default: system
