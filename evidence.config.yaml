@@ -1,5 +1,5 @@
 deployment:
-  basePath: /tvimpact
+  basePath: /evidence
 
 appearance:
   default: system
